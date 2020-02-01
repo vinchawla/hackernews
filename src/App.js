@@ -5,7 +5,7 @@ import './App.css';
 function App() {
     let user = {
 	first: 'Vin',
-	last: 'Chawla',
+	last: 'Chawla 2',
     };
     var helloWorld = 'Welcome to the road to learn React!';
     return (
